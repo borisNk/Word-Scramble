@@ -13,6 +13,7 @@
 		C8C0F6D1240081E80038222F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8C0F6CF240081E80038222F /* Main.storyboard */; };
 		C8C0F6D3240081E90038222F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8C0F6D2240081E90038222F /* Assets.xcassets */; };
 		C8C0F6D6240081E90038222F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8C0F6D4240081E90038222F /* LaunchScreen.storyboard */; };
+		C8C0F6DE2400833E0038222F /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = C8C0F6DD2400833E0038222F /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C8C0F6D2240081E90038222F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C8C0F6D5240081E90038222F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C8C0F6D7240081E90038222F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8C0F6DD2400833E0038222F /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		C8C0F6C8240081E80038222F /* Word Scramble */ = {
 			isa = PBXGroup;
 			children = (
+				C8C0F6DD2400833E0038222F /* start.txt */,
 				C8C0F6C9240081E80038222F /* AppDelegate.swift */,
 				C8C0F6CB240081E80038222F /* SceneDelegate.swift */,
 				C8C0F6CD240081E80038222F /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8C0F6D6240081E90038222F /* LaunchScreen.storyboard in Resources */,
+				C8C0F6DE2400833E0038222F /* start.txt in Resources */,
 				C8C0F6D3240081E90038222F /* Assets.xcassets in Resources */,
 				C8C0F6D1240081E80038222F /* Main.storyboard in Resources */,
 			);
