@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C861F89D2401309B00C53921 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C861F89B2401309B00C53921 /* README.md */; };
+		C861F89E2401309B00C53921 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = C861F89C2401309B00C53921 /* LICENSE.md */; };
 		C8C0F6CA240081E80038222F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C0F6C9240081E80038222F /* AppDelegate.swift */; };
 		C8C0F6CC240081E80038222F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C0F6CB240081E80038222F /* SceneDelegate.swift */; };
 		C8C0F6CE240081E80038222F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C0F6CD240081E80038222F /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C861F89B2401309B00C53921 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C861F89C2401309B00C53921 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		C8C0F6C6240081E80038222F /* Word Scramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Word Scramble.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8C0F6C9240081E80038222F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C8C0F6CB240081E80038222F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,6 +46,8 @@
 		C8C0F6BD240081E80038222F = {
 			isa = PBXGroup;
 			children = (
+				C861F89C2401309B00C53921 /* LICENSE.md */,
+				C861F89B2401309B00C53921 /* README.md */,
 				C8C0F6C8240081E80038222F /* Word Scramble */,
 				C8C0F6C7240081E80038222F /* Products */,
 			);
@@ -130,7 +136,9 @@
 			files = (
 				C8C0F6D6240081E90038222F /* LaunchScreen.storyboard in Resources */,
 				C8C0F6DE2400833E0038222F /* start.txt in Resources */,
+				C861F89D2401309B00C53921 /* README.md in Resources */,
 				C8C0F6D3240081E90038222F /* Assets.xcassets in Resources */,
+				C861F89E2401309B00C53921 /* LICENSE.md in Resources */,
 				C8C0F6D1240081E80038222F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
