@@ -1,4 +1,4 @@
-# Storm Viewer
+# Word Scramble Game
 
 Project created for the purpose of learning Swift language. A game for making words with the characters from a given word. You can't use a word twice, the word must contain characters from the word in the title and they can't be used twice. The word must exists to be correct and must has at least 4 characters. To add a new word hit the + button at the right on the navigation controller. To start a new game with a new word, hit the reload button on the left side of the navigation controller. 
 
